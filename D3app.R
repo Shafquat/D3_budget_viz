@@ -4,7 +4,7 @@ library(r2d3)
 library(DT)
 
 # load data
-budget_data <- read.csv('Fire Incidents Data.csv')
+budget_data <- read.csv('budget_2010_2019.csv')
 
 
 ui <- fluidPage(
