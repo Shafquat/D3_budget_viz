@@ -1,0 +1,13 @@
+name: Toronto_Budget
+title: Toronto_Budget
+username:
+account: shafquat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1926574
+bundleId: 2866066
+url: https://shafquat.shinyapps.io/Toronto_Budget/
+when: 1583799920.2745
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Join_files.ipynb|README.md|Sankey.R|.ipynb_checkpoints/Join_files-checkpoint.ipynb
